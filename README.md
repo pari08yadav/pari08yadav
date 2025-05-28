@@ -1,7 +1,7 @@
 #PYTHON DEVELOPER
 - 👋 Hi, I’m Parishram Yadav
 - 👀 I’m interested in Coding and Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Doing Wev Development using Python, Django, React
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me -> Email-Id:- yadav.parishram@gamil.com
 
